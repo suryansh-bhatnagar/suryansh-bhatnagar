@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryansh-bhatnagar
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Front-end 
+- 🌱 I’m currently a Front-end developer
 -
 
 <!---
