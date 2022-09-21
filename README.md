@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansh-bhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="suryansh-bhatnagar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png">
 
-- 📫 How to reach me **sbh2068@gmail.com**
+- 📫 Reach me at **sbh2068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
