@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suryansh Bhatnagar</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryansh-bhatnagar&label=Profile%20views&color=0e75b6&style=flat" alt="suryansh-bhatnagar" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png">
